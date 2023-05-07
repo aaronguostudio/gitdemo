@@ -8,3 +8,4 @@
 - Added a new line from branch: `demo branch 2`.
 - Added a new line from branch: `demo branch 2`.
 - Added a new line from branch: `demo branch 3`.
+- Added a new line from branch: `demo branch 3`.
