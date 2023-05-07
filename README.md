@@ -4,3 +4,6 @@
 - Added a new line.
 - Added a new line from branch: `demo branch 1`.
 - Added a new line from branch: `demo branch 1`.
+- Added a new line from branch: `demo branch 2`.
+- Added a new line from branch: `demo branch 2`.
+- Added a new line from branch: `demo branch 2`.
